@@ -5,7 +5,6 @@ import { Route, Routes } from 'react-router-dom';
 import NotePage from './pages/NotePage';
 function App() {
   return (
-
     <div className="container dark">
       <div className="app">
         <Header />
